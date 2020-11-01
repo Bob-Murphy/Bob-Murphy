@@ -5,5 +5,5 @@ Still trying tho.
 ---
 
 
-[![Bob's github stats](https://github-readme-stats.vercel.app/api?username=Bob-Murphy)](https://github.com/Bob-Murphy/github-readme-stats)
+[![Bob's github stats](https://github-readme-stats.vercel.app/api?username=Bob-Murphy&show_icons=true&theme=radical)]
 
